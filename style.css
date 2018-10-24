@@ -1,0 +1,22 @@
+body{
+  font-family: 'Shadows Into Light';
+  background-color: #f15946;
+  font-size: 30px;
+}
+
+div{
+  display: block;
+  background-color: #f9c22e;
+  text-align: center;
+  padding: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+}
+
+table{
+  background-color: #e8871e;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
